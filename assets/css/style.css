@@ -28,8 +28,8 @@ div.absolute {
   font-size: 25px;
   border-radius: 5px;
   transition: all ease-in-out 250ms;
-  margin-left: 2px;
-  margin-right: 2px;
+  margin-left: 3px;
+  margin-right: 3px;
 }
 
 .socialLinks a i:hover{
